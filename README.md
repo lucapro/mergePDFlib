@@ -1,7 +1,7 @@
 # mergePDFlib
 this utility is able to merge PDF files into a single one
 
-#how to build
+# how to build
 1- open a terminal and run the following command:
 	mvn clean compile assembly:single
 
@@ -12,7 +12,7 @@ this utility is able to merge PDF files into a single one
 	mergePDF-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 
-#how to use
+# how to use
 1- Copy the jar file inside the current directory where there are the pdf file you want to merge
 
 2- Open a terminal in the current directory
